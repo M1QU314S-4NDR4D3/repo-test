@@ -5,3 +5,5 @@
 - [X] Git/GitHub;
 - [ ] HTML, CSS e JS;
 - [ ] Pyhton;
+- [ ] PHP;
+- [ ] SQL;
